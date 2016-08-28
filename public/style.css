@@ -1,0 +1,44 @@
+<style>
+@import 'https://fonts.googleapis.com/css?family=Baloo+Paaji&subset=gurmukhi,latin-ext';
+</style>
+
+
+html{
+  height:100%;
+}
+
+body{
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  text-align: center;
+  font-size: 14px;
+
+}
+
+h1{
+  font-family: 'Baloo Paaji', cursive;
+}
+
+.title {
+  font-size: 5em;
+}
+
+.btn{
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em 2em 0.5em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.guess{
+  font-size: 2em;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.trophy{
+  height:200px;
+}
